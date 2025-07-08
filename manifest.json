@@ -1,0 +1,39 @@
+{
+    "item": {
+        "name": "喵喵电子书",
+        "description": "环间电子书完全重构版本！安卓客户端请前往 https://www.bandbbs.cn/resources/3278/ 下载安装，AstroBox 直接推送书籍功能敬请期待！",
+        "preview": [
+            "prew1.png",
+            "prew2.png",
+            "prew3.png",
+            "prew4.png",
+            "prew5.png",
+            "prew6.png",
+            "prew7.png",
+            "prew8.png",
+            "prew9.png"
+        ],
+        "icon": "icon.png",
+        "source_url": "https://github.com/BandBBS-Vela-Dev/o66-com.givemefive.ebook",
+        "author": [
+            {
+                "name": "NEORUAA",
+                "author_url": "https://github.com/NEORUAA"
+            },
+            {
+                "name": "乐色桶",
+                "author_url": "https://github.com/leset0ng"
+            },
+            {
+                "name": "无源流沙",
+                "author_url": "https://space.bilibili.com/3493138744215777/"
+            }
+        ]
+    },
+    "downloads": {
+        "o66": {
+            "version": "25.5.27_3.0",
+            "file_name": "com.bandbbs.ebook.release.3.0.rpk"
+        }
+    }
+}
