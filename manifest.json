@@ -34,6 +34,10 @@
         "o66": {
             "version": "25.5.27_3.0",
             "file_name": "com.bandbbs.ebook.release.3.0.rpk"
+        },
+        "o66nfc": {
+            "version": "25.5.27_3.0",
+            "file_name": "com.bandbbs.ebook.release.3.0.rpk"
         }
     }
 }
