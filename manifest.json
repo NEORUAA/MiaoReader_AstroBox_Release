@@ -40,16 +40,16 @@
     },
     "downloads": {
         "o66": {
-            "version": "25.5.27_3.0",
-            "file_name": "com.bandbbs.ebook.release.3.0.rpk"
+            "version": "25.8.5_3.1",
+            "file_name": "o66_com.bandbbs.ebook.release.3.1.rpk"
         },
         "o66nfc": {
-            "version": "25.5.27_3.0",
-            "file_name": "com.bandbbs.ebook.release.3.0.rpk"
+            "version": "25.8.5_3.1",
+            "file_name": "o66_com.bandbbs.ebook.release.3.1.rpk"
         },
         "n67": {
-            "version": "25.7.13_3.0",
-            "file_name": "n67_com.bandbbs.ebook.release.3.0.rpk"
+            "version": "25.8.5_3.1",
+            "file_name": "n67_com.bandbbs.ebook.release.3.1.rpk"
         }
     }
 }
